@@ -80,6 +80,9 @@
   
   
   <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.eu.badgr.io/public/assertions/8T7ZgiNkSGasFFuhN6xGbQ?identity__email=ahmetyank4242%40gmail.com"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/8T7ZgiNkSGasFFuhN6xGbQ/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Development newbie - 2 stars</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded:</strong>Jun 16, 2021</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To:</strong><span style="display: block;"> Yanik Ahmet</span></p><p style="margin: 16px 0; padding: 0;"></blockquote>
+  
+  
+  <iframe src="https://api.eu.badgr.io/public/assertions/It60KQ2TRFOwDctbcxfkVg?embedVersion=1&amp;embedWidth=330&amp;embedHeight=186&amp;identity__email=ahmetyank4242%40gmail.com" title="Badge: User Interface developer - 3 stars" style="width: 330px; height: 186px; border: 0px;"></iframe>
 </p>
 ------
 
