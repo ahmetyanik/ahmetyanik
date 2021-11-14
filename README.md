@@ -69,6 +69,6 @@
 
 ------
 
-[AhmetYanik](https://github.com/ahmetyanik)
+[Ahmet Yanik](https://github.com/ahmetyanik)
 
-Last Edited on: 05/08/2021
+Last Edited on: 14/11/2021
