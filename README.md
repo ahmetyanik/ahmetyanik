@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmet<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h3 align="center">A passionate JavaScript and Front-End (and a beginner designer) developer from Germany</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on my **Full Stack Web Development Course**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, React, MongoDB**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
+- 📫 How to reach me: **ahmetyank4242@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ What I like to do: **I like so much reading, football ...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
