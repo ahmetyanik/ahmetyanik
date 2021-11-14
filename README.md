@@ -57,6 +57,9 @@
     <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
+      <a href="https://git-scm.com/" target="_blank"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"  />
+  </a>
 </p>
 
 <p align= "center">
