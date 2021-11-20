@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmet<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate JavaScript and Front-End (and a beginner designer) developer from Germany</h3>
 
-- 🔭 I’m currently working on my **Full Stack Web Development Course**
+- 🔭 I’m currently working on my **Full Stack Web Development Course (DCI)**
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, React, MongoDB**
+- 🌱 I’m currently learning **JavaScript, React, MongoDB**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
