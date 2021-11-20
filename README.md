@@ -69,7 +69,12 @@
       <a href="https://git-scm.com/" target="_blank"> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"  />
   </a>
+  
+  <a href="https://git-scm.com/" target="_blank"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"  />
+  </a>
 </p>
+
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ahmetyanik&theme=react&show_icons=true&include_all_commits=true" />
