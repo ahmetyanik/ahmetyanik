@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmet<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">A passionate JavaScript and Front-End (and a beginner designer) developer from Germany</h3>
 
 - 🔭 I’m currently working on my **Full Stack Web Development Course (DCI)**
