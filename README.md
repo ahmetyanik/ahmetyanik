@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">A passionate JavaScript and Full-Stack (and a beginner designer) developer from Germany</h3>
+<h3 align="center">A passionate JavaScript and Full-Stack developer from Germany</h3>
 
 - 🔭 I’m currently working on my **Full Stack Web Development Course (DCI)**
 
