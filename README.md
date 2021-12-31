@@ -52,14 +52,6 @@
   </a> 
    
   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-
- 
-  
-    <a href="https://www.linux.org/" target="_blank"> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="typescript" width="40" height="40"/>
-
-  </a>
   
  
 
