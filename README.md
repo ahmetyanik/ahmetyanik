@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **ahmetyank4242@gmail.com**
+- 📫 How to reach me: **ahmetyankdev.com**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
