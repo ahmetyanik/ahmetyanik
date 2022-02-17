@@ -58,15 +58,15 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
   
-  <a href="https://git-scm.com/" target="_blank"> 
+  <a href="https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" /> 
   </a>
   
-  <a href="https://git-scm.com/" target="_blank"> 
+  <a href="https://www.w3schools.com/sql/default.asp" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
   
-  <a href="https://git-scm.com/" target="_blank"> 
+  <a href="https://docs.atlas.mongodb.com/?_ga=2.23117372.725085483.1645131298-1282144834.1643304452&_gac=1.250201588.1645131298.CjwKCAiAgbiQBhAHEiwAuQ6BkuY2dIvynTFDaXRpfPC2-I-qywz6Wov8th6ooIuO8pc3q29OK03vJBoCpIwQAvD_BwE" target="_blank"> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"  />
   </a>  
 
