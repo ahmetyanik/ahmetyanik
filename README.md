@@ -30,7 +30,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
   
-  <a href="https://www.w3schools.com/scss/" target="_blank"> 
+  <a href="https://www.w3schools.com/sass/default.php" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"alt="sass" width="40" height="40"/>
   </a>
   
