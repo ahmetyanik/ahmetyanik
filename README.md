@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
-<img src="https://www.canva.com/design/DAE4pOkVUkc/Uvs2uUhGUXDHeHeNisH1lw/view?utm_content=DAE4pOkVUkc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="html5" width="40" height="40"/> 
+<img src="https://www.canva.com/design/DAE4pOkVUkc/Uvs2uUhGUXDHeHeNisH1lw/viewutm_content=DAE4pOkVUkc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="html5" width="40" height="40"/> 
 <h3 align="center">A passionate JavaScript and Full-Stack developer from Germany</h3>
 
 - 🔭 I’m currently working on my **Full Stack Web Development Course (DCI)**
