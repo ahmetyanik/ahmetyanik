@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
+<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <h3 align="center">A passionate JavaScript and Full-Stack developer from Germany</h3>
 
 - 🔭 I’m currently working on my **Full Stack Web Development Course (DCI)**
