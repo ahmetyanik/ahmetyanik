@@ -2,12 +2,6 @@
 
 <h3 align="center">A passionate JavaScript and Full-Stack developer from Germany</h3>
 
-- 🔭 I’m currently working on my **Full Stack Web Development Course (DCI)**
-
-- 🌱 I’m currently learning **JavaScript, React, MongoDB**
-
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
-
 - 📫 How to reach me: **ahmetyanikdev@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
